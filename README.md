@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="file:///D:/shots/11086928-Working-girl/attachments/2685506?mode=media" width="600" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F8516784-developer-coding-website-illustration-concept&psig=AOvVaw2QRkae1mkyd8zSCpko0beK&ust=1669655207337000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDUvs_szvsCFQAAAAAdAAAAABB6" width="600" height="300"/>
 </div>
 
 - 👋 Hi, I’m @sanjushasuresh
