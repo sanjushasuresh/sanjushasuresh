@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoded-data-numbers-encryption-hack-gif-17648403&psig=AOvVaw1mag771ROELdneabU_6aom&ust=1669652022207000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiptNTgzvsCFQAAAAAdAAAAABAU)" width="600" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F11086928-Working-girl&psig=AOvVaw1mag771ROELdneabU_6aom&ust=1669652022207000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiptNTgzvsCFQAAAAAdAAAAABBG" width="600" height="300"/>
 </div>
 
 - 👋 Hi, I’m @sanjushasuresh
