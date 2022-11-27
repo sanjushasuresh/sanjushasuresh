@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1TeO_u6Ogq1WlN26gkwFIa9qjl9vwgrQv/view?usp=share_link)](github.com/sanjushasuresh)
+[![MasterHead](D:\Data Science\Images\WhatsApp Image 2022-11-27 at 21.05.04.jpeg)](github.com/sanjushasuresh)
 
 - 👋 Hi, I’m @sanjushasuresh
 - 👀 I’m passionate and curious about Data Science, Machine learning and Artificial intelligence
