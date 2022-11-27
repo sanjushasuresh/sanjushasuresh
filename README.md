@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F11086928-Working-girl&psig=AOvVaw1mag771ROELdneabU_6aom&ust=1669652022207000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiptNTgzvsCFQAAAAAdAAAAABBG" width="600" height="300"/>
+  <img src="file:///D:/shots/11086928-Working-girl/attachments/2685506?mode=media" width="600" height="300"/>
 </div>
 
 - 👋 Hi, I’m @sanjushasuresh
