@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scnsoft.com%2Fservices%2Fdata-science&psig=AOvVaw0lnAE8Wvi0Pe-MqC4BVtTB&ust=1669650715655000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCG9-jbzvsCFQAAAAAdAAAAABAD)](github.com/sanjushasuresh)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2022%2F10%2F31%2Fthe-top-5-data-science-and-analytics-trends-in-2023%2F&psig=AOvVaw0lnAE8Wvi0Pe-MqC4BVtTB&ust=1669650715655000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCG9-jbzvsCFQAAAAAdAAAAABAV)](github.com/sanjushasuresh)
 
 - 👋 Hi, I’m @sanjushasuresh
 - 👀 I’m passionate and curious about Data Science, Machine learning and Artificial intelligence
