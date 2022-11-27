@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2022%2F10%2F31%2Fthe-top-5-data-science-and-analytics-trends-in-2023%2F&psig=AOvVaw0lnAE8Wvi0Pe-MqC4BVtTB&ust=1669650715655000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCG9-jbzvsCFQAAAAAdAAAAABAV)](github.com/sanjushasuresh)
+<img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoded-data-numbers-encryption-hack-gif-17648403&psig=AOvVaw1mag771ROELdneabU_6aom&ust=1669652022207000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiptNTgzvsCFQAAAAAdAAAAABAU)">
 
 - 👋 Hi, I’m @sanjushasuresh
 - 👀 I’m passionate and curious about Data Science, Machine learning and Artificial intelligence
