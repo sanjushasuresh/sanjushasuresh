@@ -1,4 +1,4 @@
-![WhatsApp Image 2022-11-28 at 11 34 00]<a href=(https://user-images.githubusercontent.com/119057185/204206190-11e69c17-291b-40b1-b963-1e4e26cf9104.jpeg) height="100" width="200" </a>
+![WhatsApp Image 2022-11-28 at 11 34 00](https://user-images.githubusercontent.com/119057185/204206190-11e69c17-291b-40b1-b963-1e4e26cf9104.jpeg) height="100" width="200"
 
 
 - 👋 Hi, I’m @sanjushasuresh
