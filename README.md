@@ -1,3 +1,6 @@
+![alt text](http://url/to/img.png)
+
+
 - 👋 Hi, I’m @sanjushasuresh
 - 👀 I’m passionate and curious about Data Science, Machine learning and Artificial intelligence
 - 🌱 My skills include Python, R, Java, SQL, Excel, Spark, Hadoop and Tableau
