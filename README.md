@@ -1,4 +1,4 @@
-![GH image](https://github.com/user-attachments/assets/736f760c-b2b0-4149-abf4-b134c85b384d)
+![GH Image](https://github.com/user-attachments/assets/55f06603-e46c-4dd8-8612-e2639b3694b8)
 
 
 - 👋 Hi, I’m @sanjushasuresh
