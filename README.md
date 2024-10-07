@@ -3,6 +3,7 @@
 
 - 👋 Hi, I’m @sanjushasuresh
 - 👀 I’m passionate and curious about DATA!
+- 💻 I'm currently learning and working on Artificial Intelligence, Deep Learning, and Generative AI
 - 🌱 My skills include Data Science, Machine Learning, Data Analysis, Statistics, Python, SQL, and Tableau
 - 💞 I'm looking to collaborate on all the above topics
 - 📫 How to reach me : sanjushasuresh19@gmail.com 
